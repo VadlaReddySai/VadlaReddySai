@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @VadlaReddySai
-- 👀 I’m interested in Web Development and in Cyber Security
-- 🌱 I’m currently Pursuing B.Tech 3rd year
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hey, I’m Reddy Sai  
 
-<!---
-VadlaReddySai/VadlaReddySai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔴 **Red Teamer** | Aspiring **Security Researcher**  
+- 👀 Passionate about **Cyber Security**, **Web Application Security**, and **Offensive Security**  
+- 🛡️ Currently working as a **Red Team Security Professional**  
+- 💡 Exploring **Adversary Simulation, Exploit Development, and Web3 Security**  
+- 💞️ Open to collaborating on **CTFs, Security Research, and Open-Source Security Projects**
+---
+
+⚡ *“Breaking systems to build stronger defenses.”*  
